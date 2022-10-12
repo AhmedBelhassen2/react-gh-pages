@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.fc6b349e.css",
-    "main.js": "/react-gh-pages/static/js/main.2a836dea.js",
+    "main.css": "/react-gh-pages/static/css/main.eec85c68.css",
+    "main.js": "/react-gh-pages/static/js/main.b5295310.js",
     "static/media/holberton_logo.jpg": "/react-gh-pages/static/media/holberton_logo.24bab5d633e36ca8d17e.jpg",
     "index.html": "/react-gh-pages/index.html",
-    "main.fc6b349e.css.map": "/react-gh-pages/static/css/main.fc6b349e.css.map",
-    "main.2a836dea.js.map": "/react-gh-pages/static/js/main.2a836dea.js.map"
+    "main.eec85c68.css.map": "/react-gh-pages/static/css/main.eec85c68.css.map",
+    "main.b5295310.js.map": "/react-gh-pages/static/js/main.b5295310.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc6b349e.css",
-    "static/js/main.2a836dea.js"
+    "static/css/main.eec85c68.css",
+    "static/js/main.b5295310.js"
   ]
 }
